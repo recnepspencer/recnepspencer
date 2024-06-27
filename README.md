@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Spencer Hepworth!
 
-You see that Porsche in my profile picture? I loved that thing, but I sold it to allow myself to go all in on coding. When I do things, I do them all the way. 
-
 ### Software Developer | Lifelong Learner | Entrepreneur
 
 I'm the co-founder of Triumph Technologies, where I'm currently working on revolutionizing processes for commercial farmers with cutting-edge applications. My journey from sales to coding is driven by a passion for problem-solving and leveraging high-impact skills to build innovative solutions.
