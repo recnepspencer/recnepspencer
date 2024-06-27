@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Spencer Hepworth!
 
-<------- You see that Porsche in my profile picture? I loved that thing, but I sold it to allow myself to go all in on coding. When I do things, I do them all the way. 
+You see that Porsche in my profile picture? I loved that thing, but I sold it to allow myself to go all in on coding. When I do things, I do them all the way. 
 
 ### Software Developer | Lifelong Learner | Entrepreneur
 
