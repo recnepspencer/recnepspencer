@@ -1,29 +1,19 @@
-# 👋 Hi, I'm Spencer Hepworth!
+# Spencer Hepworth
 
-### Software Developer | Lifelong Learner | Entrepreneur
+I’m building **Forge** — novel infrastructure for AI-native software.
 
-I'm the co-founder of Triumph Technologies, where I'm currently working on revolutionizing processes for commercial farmers with cutting-edge applications. My journey from sales to coding is driven by a passion for problem-solving and leveraging high-impact skills to build innovative solutions.
+Forge is not an AI model, agent framework, or LLM wrapper. It is deterministic runtime infrastructure for the software AI will make possible: larger systems, faster iteration, and far more pressure on correctness.
 
-### What I Do
+The core idea:
 
-#### Full Stack Development
-- **Backend Architecture:** Designing scalable and efficient backend systems using Laravel, MySQL, Node.js, Express, MongoDB, and TypeScript.
-- **Frontend Development:** Enhancing user experience and interface using Angular, React, HTML, and CSS, Tailwind, etc
-- **Integration:** Collaborating with embedded systems developers to integrate software with hardware solutions, ensuring seamless functionality.
+**As AI makes software easier to create, truth becomes harder to preserve.**
 
-#### AI & Automation
-- Utilizing AI to optimize data input and management, creating smart solutions for health and agriculture.
+Forge treats truth as infrastructure. Workflows, permissions, audit trails, replay, files, provenance, business logic, mathematical objects, and design state should not live as disconnected glue across a stack. They should operate from the same programmable foundation.
 
+I’m applying Forge across CAD, math research, and domain-agnostic workflow infrastructure, with medical manufacturing as an early regulated use case.
 
-### My Projects
+I build with AI-native delegation, but Forge itself does not depend on AI to work. Models accelerate implementation. The runtime stays deterministic, inspectable, replayable, and auditable.
 
-- **[High Desert Milk Website](https://high-desert-milk.vercel.app/):** Rebuilt and modernized the company’s website using Next.js, React, and TypeScript.
-- **[AI Nutrition Tracker](https://youtu.be/QUsHgX2rw4Q?si=MQoV_UjcTxY1IE-G):** A comprehensive personal data management app using AI to streamline nutrition tracking.
+The future of software is not just faster code generation.
 
-### Personal Development
-
-I’m committed to continuous improvement. My daily routines include gym sessions, meal prep, sauna, and ice baths. These habits keep me disciplined and detail-oriented, traits I bring into my coding and project management.
-
----
-
-Feel free to connect with me or check out my projects! Always eager to collaborate with like-minded professionals and explore new opportunities.
+It is infrastructure that lets generated software remain truthful.
